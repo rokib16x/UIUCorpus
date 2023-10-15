@@ -1,4 +1,4 @@
-# UIUCorpus - Bangla Monolingual and Bilingual Corpus
+# UIUCORP: Monolingual and Bilingual Balanced Bengali Corpus Creation and Analysis
 
 ## Introduction
 
